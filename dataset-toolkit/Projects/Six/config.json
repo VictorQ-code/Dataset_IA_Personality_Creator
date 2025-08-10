@@ -1,0 +1,13 @@
+{
+  "project_name": "Six",
+  "dataset_file": "projects/six/dataset_six.jsonl",
+  "system_prompt_file": "projects/six/personality.txt",
+  "ui_titles": {
+    "creator": "Creador de Dataset para Six",
+    "viewer": "Visualizador y Editor de Dataset para Six"
+  },
+  "ui_labels": {
+    "user_prompt": "Pregunta del Usuario (User):",
+    "assistant_response": "Respuesta Ideal de Six (Assistant):"
+  }
+}
